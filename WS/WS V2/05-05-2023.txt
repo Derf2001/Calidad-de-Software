@@ -1,0 +1,4 @@
+********** Estación Meteorologic V2 **************
+Esta carpeta contiene:
+- Reporte de la Estación Meteorologica Version 2
+- Carpeta Contenedora del Codigo en Arduino
