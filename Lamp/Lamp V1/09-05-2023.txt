@@ -1,0 +1,4 @@
+********* Lampara Intelogente V1 *********
+Esta carpeta contiene:
+- Reporte de la Lampara Inteligente Version 1
+- Carpeta contenedora del Código en Arduino
