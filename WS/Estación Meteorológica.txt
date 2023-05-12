@@ -16,7 +16,9 @@ Esta carpeta contiene:
   + Al mantener presionado el boton UP mostrar la pantalla de Fecha y Hora.
   + Al mantener presionado el boton DOWN mostrar la pantalla de Temperatura y Humedad.
   + Al presionar el boton LIGHT apagar/encender la pantalla.
-  + Al matener presionado el boton MODO entrar al Modo Alarma y presionar nuevamente el boton MODO va apuntando el cursor en Hora, Minutos y ON/OFF, uso de los botones UP y DOWN para incrementar/decrementar los valores y activar la Alarma.
+  + Al matener presionado el boton MODO entrar al Modo Alarma y presionar nuevamente el boton MODO va apuntando el cursor en Hora, Minutos y ON/OFF.
+  + Al presionar el boton UP en Alarma, incrementara los valores.
+  + Al presionar el boton DOWN en Alarma, decrementara los valores.
   + Implementacion de Temporizador para que se apague la Pantalla.
 
 Proyecto realizado en la Materia "Calidad de Software" impartido por M.E.C. Edgar Manuel Cano Cruz.
