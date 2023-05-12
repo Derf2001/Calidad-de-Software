@@ -2,5 +2,4 @@
 
 Esta carpeta contiene:
 - Reporte de la Lampara Inteligente Versión 2
-
 - Carpeta Contenedora del Código en Arduino
