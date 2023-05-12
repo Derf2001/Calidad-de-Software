@@ -1,0 +1,5 @@
+************** Alarma **************
+
+Esta carpeta contiene:
+- Reporte de la Alarma
+- Carpeta Contenedora del Código en Arduino
