@@ -1,0 +1,14 @@
+********** Lampara Inteligente **************
+
+Esta carpeta contiene:
+- Carpeta Contenedora de Version 1 de la Lampara Inteligente.
+  + Cambio de color de la tira LED con 4 botones.
+  
+- Carpeta Contenedora de Version 2 de la Lámpara Inteligente.
+  + Uso de Sensor PIR para encender la tira LED al detectar movimiento.
+  + Uso de Receptor IR para controlar a distancia los colores de la tira LED.
+  + Uso de 1 Boton para cambiar de color manualmente la tira LED y cambiar al Modo Secuencia.
+
+Proyecto realizado en la Materia "Calidad de Software" impartido por M.E.C. Edgar Manuel Cano Cruz.
+
+Universidad del Istmo, Campus Ixtepec.
