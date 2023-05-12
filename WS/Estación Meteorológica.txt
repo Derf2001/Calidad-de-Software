@@ -1,0 +1,24 @@
+************** Estación Meteorológica **************
+
+Esta carpeta contiene:
+- Carpeta Contenedora de Version 1 de la Estación Meteorológica.
+  + Uso de Sensor DHT11 para obtener la Temperatura y Humedad del ambiente.
+  + Uso de Sensor RTC para obtener la Fecha y Hora.
+  + Uso de LCD para mostrar las diferentes pantallas.
+  + Mostrar Pantalla de Bienvenida 1 vez.
+  + Mostrar Pantalla de Fecha y Hora secuencialmente.
+  + Mostrar Pantalla de Temperatura y Humedad secuencialmente.
+  
+- Carpeta Contenedora de Version 2 de la Estación Meteorológica.
+  + Implementación de una Alarma para configurar.
+  + Uso de un BUZZER al activar la Alarma.
+  + Uso de 4 botones para MODO, UP, DOWN, LIGHT.
+  + Al mantener presionado el boton UP mostrar la pantalla de Fecha y Hora.
+  + Al mantener presionado el boton DOWN mostrar la pantalla de Temperatura y Humedad.
+  + Al presionar el boton LIGHT apagar/encender la pantalla.
+  + Al presionar el boton MODO entrar al Modo Alarma y uso de los botones UP y DOWN para configurar y activar la Alarma.
+  + Implementacion de Temporizador para que se apague la Pantalla.
+
+Proyecto realizado en la Materia "Calidad de Software" impartido por M.E.C. Edgar Manuel Cano Cruz.
+
+Universidad del Istmo, Campus Ixtepec.
