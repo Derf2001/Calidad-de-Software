@@ -1,4 +1,5 @@
-********** Estación Meteorológica V2 **************
+************** Estación Meteorológica V2 **************
+
 Esta carpeta contiene:
 - Reporte de la Estación Meteorológica Versión 2
 - Carpeta Contenedora del Código en Arduino
