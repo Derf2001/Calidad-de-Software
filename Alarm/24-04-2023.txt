@@ -1,5 +1,15 @@
 ************** Alarma **************
 
 Esta carpeta contiene:
-- Reporte de la Alarma
-- Carpeta Contenedora del Código en Arduino
+- Reporte de la Alarma.
+- Carpeta Contenedora del Código en Arduino.
+  + Uso de 4 botones para MODO, UP, DOWN, LIGHT.
+  + Al presionar el boton MODO va apuntando el cursor en Hora, Minutos y ON/OFF.
+  + Al presionar el boton UP incrementara los valores.
+  + Al presionar el boton DOWN decrementara los valores.
+  + Uso de un BUZZER que suena al Activarse la Alarma.
+  + Implementacion de Temporizador para que se apague la Pantalla.
+  
+Proyecto realizado en la Materia "Calidad de Software" impartido por M.E.C. Edgar Manuel Cano Cruz.
+
+Universidad del Istmo, Campus Ixtepec.
