@@ -1,4 +1,4 @@
 ************** Estación Meteorológica V1 **************
 
 Esta carpeta contiene:
-- Carpeta Contenedora del Código en Arduino
+- Carpeta Contenedora del Código en Arduino.
